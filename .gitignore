@@ -1,0 +1,37 @@
+# Секреты и конфигурация с ключами
+.env
+.env.local
+.env.*.local
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Прочее
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env
